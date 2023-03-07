@@ -1,4 +1,4 @@
-package lesson1.demo1;
+package hw_1.hw_1_1;
 
 public class Start {
 
@@ -12,7 +12,7 @@ public class Start {
        book1.pages=33;
        book1.Authors=Authors;
        book1.genre="Horror";
-        System.out.println(book1.toString());
+        System.out.println(book1);
 
         //********************************************//
 

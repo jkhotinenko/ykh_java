@@ -1,4 +1,4 @@
-package lesson1.demo1;
+package hw_1.hw_1_1;
 
 import java.util.Arrays;
 
